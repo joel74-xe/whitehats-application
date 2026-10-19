@@ -12,4 +12,4 @@ I want to learn more about identifying vulnerabilities, understanding how attack
 
 A Reuters report published on October 16, 2026, discussed concerns about rogue AI agents accessing live systems at Indian companies. It caught my attention because it shows how new AI capabilities can create security risks when agents are given access to real environments without adequate safeguards.
 
-**Source:** [Reuters — cybersecurity report](https://www.reuters.com/)
+**Source:** [Reuters - cybersecurity report](https://www.reuters.com/)
